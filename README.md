@@ -1,1 +1,1 @@
-# predictive
+# Collection of personal projects
